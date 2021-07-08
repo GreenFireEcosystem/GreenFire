@@ -591,7 +591,7 @@ contract GreenFire is Context, IERC20, Ownable {
     uint256 private _rTotal = (MAX - (MAX % _tTotal));
     uint256 private _tFeeTotal;
 
-    string private _name =  "GreeFire";
+    string private _name =  "GreenFire";
     string private _symbol =  "FIRE";
     uint8 private _decimals = 9;
     
